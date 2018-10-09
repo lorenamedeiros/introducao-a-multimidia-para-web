@@ -1,0 +1,50 @@
+html,
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+.centralizado {
+    margin: auto auto;
+    width: auto;
+}
+
+.titulo {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.subtitulo {
+    height: 30px;
+}
+
+.conteudo-centralizado {
+    text-align: center;
+}
+
+table tbody tr td {
+    padding: 10px;
+}
+
+.preco {
+    text-align: right;
+}
+
+.caixa {
+    width: 180px;
+    height: 380px;
+}
+
+td {
+    vertical-align: top;
+}
+
+.descricao {
+    text-align: left;
+}
+
+.formulario-de-compra {
+    padding-bottom: 80px;
+}
